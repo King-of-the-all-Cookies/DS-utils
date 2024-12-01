@@ -9,3 +9,11 @@ Collection of utilities for DS. It works on pure python, you need dependencies n
 - [ ] Changing the ROM name
 - [ ] Music Extraction
 - [ ] Editing scripts
+
+## Dependencies
+
+```pip install ndspy```
+
+```pip install psutil```
+
+```pip install py-desmume```
